@@ -1,0 +1,23 @@
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+}
+.item{
+    padding: 20px;
+    color: beige;
+    background-color: brown;
+    
+}
+.item1{
+    background-color: rgb(247, 212, 100);
+}
+.item2{
+    background-color: rgb(240, 182, 182);
+}
+.item3{
+    background-color: rgb(163, 240, 217);
+}
+.item4{
+    background-color: rgb(243, 101, 155);
+}
